@@ -1,5 +1,8 @@
 # Correlation between countries and car engines
 
+![carlos-aranda-QMjCzOGeglA-unsplash](https://github.com/Shifanaaz125/Correlation-among-countries-and-cars-engines/assets/120267469/09bbfb48-a8a0-4eba-8494-7a6150f40e50)
+
+
 # Problem Statement
 
 Investigate the relationship between the number of cylinders, engine displacement, and horsepower. Do cars with more cylinders tend to have higher horsepower? How does engine displacement affect horsepower? Compare and contrast the characteristics of automobiles based on their country or region of origin. Do cars from different regions have significantly different MPG, engine characteristics, or weight?
